@@ -1,0 +1,25 @@
+.header{
+  background: linear-gradient(rgb(61, 61, 61), rgb(0, 0, 0));
+  color: #fff;
+}
+
+.submitButton{
+  margin-top: 10px;
+  margin-left: 25px;
+  background: linear-gradient(rgb(75, 145, 250), rgb(0, 82, 206) );
+  color: #ffffff;
+}
+
+.myForm{
+  margin-top: 10px;
+  margin-left: 25px;
+  background-color: rgb(180, 178, 178);
+}
+
+label{
+  font-weight: bold;
+}
+
+input{
+  padding: auto;
+}
